@@ -1,0 +1,36 @@
+2023-05-09 07:55:24,027 - hello.log - INFO - This is an info log message
+2023-05-09 07:55:24,027 - hello.log - ERROR - This is an error log message
+2023-05-09 08:03:57,422 - hello.log - INFO - This is an info log message
+2023-05-09 08:03:57,422 - hello.log - ERROR - This is an error log message
+2023-05-09 08:04:13,383 - hello.log - INFO - This is an info log message
+2023-05-09 08:04:13,383 - hello.log - ERROR - This is an error log message
+2023-05-09 08:18:21,581 - hello.log - ERROR - This is an error log message
+2023-05-09 08:18:21,581 - hello.log - INFO - This is func2 method
+2023-05-09 08:18:21,581 - hello.log - INFO - This is func1 method
+2023-05-09 08:19:29,773 - hello.log - INFO - This is func2 method
+2023-05-09 08:19:29,773 - hello.log - INFO - This is func1 method
+2023-05-09 08:19:42,850 - hello.log - INFO - This is func2 method
+2023-05-09 08:19:42,850 - hello.log - INFO - This is func1 method
+2023-05-09 08:19:55,847 - hello.log - INFO - This is func2 method
+2023-05-09 08:19:55,847 - hello.log - INFO - This is func1 method
+2023-05-09 08:20:09,223 - hello.log - INFO - This is func2 method
+2023-05-09 08:20:09,223 - hello.log - INFO - This is func1 method
+2023-05-09 08:35:09,214 - hello.log - INFO - This is func2 method
+2023-05-09 08:35:09,217 - hello.log - INFO - This is func1 method
+2023-05-09 08:35:27,310 - hello.log - INFO - This is func2 method
+2023-05-09 08:35:27,310 - hello.log - INFO - This is func1 method
+2023-05-09 08:36:51,311 - hello.log - INFO - This is func2 method 36
+2023-05-09 08:36:51,311 - hello.log - INFO - This is func1 method
+2023-05-09 09:28:55,524 - hello.log - INFO - This is func2 method 36
+2023-05-09 09:28:55,525 - hello.log - INFO - This is func1 method
+2023-05-09 09:55:52,084 - root - DEBUG - This is a debug message
+2023-05-09 11:14:50,485 - hello.log - INFO - This is func1 method
+2023-05-09 11:15:25,186 - hello.log - INFO - This is Ravi comments
+2023-05-09 11:48:46,868 - hello.log - INFO - This is func2 method 36
+2023-05-09 11:48:46,868 - hello.log - INFO - This is func1 method
+2023-05-09 12:01:31,609 - root - DEBUG - This is a debug message
+2023-05-09 12:01:31,612 - root - DEBUG - This is a debug message
+2023-05-09 12:01:31,612 - hello.log - INFO - This is func2 method 36
+2023-05-09 12:01:31,612 - hello.log - INFO - This is func2 method 36
+2023-05-09 12:01:31,612 - hello.log - INFO - This is func1 method
+2023-05-09 12:01:31,612 - hello.log - INFO - This is func1 method
